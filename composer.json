@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Site\\": "vendor\\sitesql\\php-classes\\src"
         }
     }
 }
