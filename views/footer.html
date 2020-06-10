@@ -60,7 +60,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="copyright">
-                        <p>&copy; 2017 Hcode Treinamentos. <a href="http://www.hcode.com.br" target="_blank">hcode.com.br</a></p>
+                        <p>&copy; 2020 Ewerton Oliveira. <a href="http://www.hcode.com.br" target="_blank">novoecommerce.com.br</a></p>
                     </div>
                 </div>
                 
