@@ -48,9 +48,9 @@ $app->post('/admin/login', function(){
 
 $app->get('/admin/logout', function(){
     
-    User:logout();
+    User::logout();
     
-    header("Location:" /admin/login);
+    header("Location: /admin/login");
     exit;
 });
 

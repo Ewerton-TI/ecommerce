@@ -28,7 +28,7 @@ class User extends Model{
 
 			$user = new User();
 
-			$user->setiData($data);
+			$user->setData($data);
 
 			$_SESSION[User::SESSION] = $user->getValues();
 
